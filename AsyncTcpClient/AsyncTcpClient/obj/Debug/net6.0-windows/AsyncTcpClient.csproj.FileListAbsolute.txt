@@ -1,0 +1,57 @@
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.exe
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.deps.json
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.runtimeconfig.json
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.pdb
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.AssemblyReference.cache
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.Form1.resources
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.GenerateResource.cache
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.AssemblyInfoInputs.cache
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.AssemblyInfo.cs
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\refint\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.pdb
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.genruntimeconfig.cache
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\ref\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\efeca\Desktop\DEV\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.CopyComplete
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.exe
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.deps.json
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.runtimeconfig.json
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.pdb
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.AssemblyReference.cache
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.Form1.resources
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.GenerateResource.cache
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.AssemblyInfoInputs.cache
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.AssemblyInfo.cs
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.CopyComplete
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\refint\AsyncTcpClient.dll
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.pdb
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.genruntimeconfig.cache
+C:\Users\efeca\Desktop\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\ref\AsyncTcpClient.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.exe
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.deps.json
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.runtimeconfig.json
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\AsyncTcpClient.pdb
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.AssemblyReference.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.Form1.resources
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.GenerateResource.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.AssemblyInfoInputs.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.AssemblyInfo.cs
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.csproj.CopyComplete
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\refint\AsyncTcpClient.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.pdb
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\AsyncTcpClient.genruntimeconfig.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\AsyncTcpClient\AsyncTcpClient\obj\Debug\net6.0-windows\ref\AsyncTcpClient.dll

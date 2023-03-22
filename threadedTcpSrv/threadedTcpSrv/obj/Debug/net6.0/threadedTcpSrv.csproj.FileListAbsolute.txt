@@ -1,0 +1,45 @@
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.exe
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.deps.json
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.runtimeconfig.json
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.dll
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.pdb
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.csproj.AssemblyReference.cache
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.AssemblyInfoInputs.cache
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.AssemblyInfo.cs
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.csproj.CoreCompileInputs.cache
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.dll
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\refint\threadedTcpSrv.dll
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.pdb
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.genruntimeconfig.cache
+C:\Users\efeca\Desktop\DEV\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\ref\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.exe
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.deps.json
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.runtimeconfig.json
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.pdb
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.csproj.AssemblyReference.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.AssemblyInfoInputs.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.AssemblyInfo.cs
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.csproj.CoreCompileInputs.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\refint\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.pdb
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.genruntimeconfig.cache
+C:\Users\sdd_2\Desktop\Yeni klasör\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\ref\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.exe
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.deps.json
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.runtimeconfig.json
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\bin\Debug\net6.0\threadedTcpSrv.pdb
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.csproj.AssemblyReference.cache
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.AssemblyInfoInputs.cache
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.AssemblyInfo.cs
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.csproj.CoreCompileInputs.cache
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\refint\threadedTcpSrv.dll
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.pdb
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\threadedTcpSrv.genruntimeconfig.cache
+C:\Users\sdd_2\Desktop\ERDEM-DÖKTÜR\threadedTcpSrv\threadedTcpSrv\obj\Debug\net6.0\ref\threadedTcpSrv.dll
